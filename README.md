@@ -1,1 +1,1 @@
-# shopify-ecommerce-store
+# shopify-ecommerce-store-nextjs
