@@ -5,7 +5,7 @@ The ultimate starter for headless Shopify stores
 
 Demo live at: [headless.builders](https://headless.builders/)
 
-## Goals and Feature
+## Goals and Features
 
 - Ultra high performance
 - SEO optimized
