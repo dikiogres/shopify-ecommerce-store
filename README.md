@@ -7,7 +7,6 @@ Demo live at: [headless.builders](https://headless.builders
 
 
 ## Goals and Features
-
 - Ultra high performance
 - SEO optimized
 - Themable
